@@ -1,0 +1,7 @@
+# Ignore disk image files
+*.img
+*.qcow
+*.qcow2
+
+# Temporary directories
+tmpdir*/
